@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://riverinvest.co.uk/sitemap.xml
